@@ -1,2 +1,3 @@
 # hello-world
-Hello World Git， Hello World
+Hello World Git， 
+The new commer says hello world！
